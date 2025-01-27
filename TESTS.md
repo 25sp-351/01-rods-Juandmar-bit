@@ -82,7 +82,7 @@ Given the supplied rod length in the command terminal and a list in with the len
    
     8, 4
    
-    -4, 2
+    4, 2
    
     2, 1
    
